@@ -53,5 +53,4 @@ Final Thoughts 💭🚀 Creating a lexical analyzer is an essential step to unde
 
 This project bridges theory and practice in compiler design, giving you firsthand experience in building the backbone of many software tools we use daily. Plus, the skills you gain here — file handling, string manipulation, pattern recognition — are useful across countless programming and development scenarios. 🌟💻
 
-#OUTPUT
-Output of Task: 
+#OUTPUT https://github.com/shikhaswaroop11/A-PROGRAM-DEMONSTRATING-LEXICAL-ANALYSIS-WITH-SAMPLE-OUTPUTS./commit/1a3f4c443cbf23566d7f31f5fbbeb0f8c849c48d
